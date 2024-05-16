@@ -1,0 +1,16 @@
+{
+  "name": "poc-wii-sport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "edwbr.dev",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "three": "^0.164.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
